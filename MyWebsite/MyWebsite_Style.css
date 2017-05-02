@@ -1,0 +1,30 @@
+body {
+	background-color: #f3f0cf;
+}
+
+h1 {
+	text-align: left;
+}
+
+h2 {
+	text-align: center;
+}
+	
+.main-head {
+	font-size: 1.5em;
+	text-align: left;
+	margin-left: 0;
+}
+p {
+	text-align: center;
+	font-size: 1.25em;
+}
+.skill-icon {
+	text-align: center;
+}
+
+.connect-icons {
+	text-align: center;
+	margin-bottom: 20px;
+}
+	
