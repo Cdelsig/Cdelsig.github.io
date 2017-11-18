@@ -41,10 +41,10 @@ p {
 	font-size: 1em;
 }
 
-
+/*
 @media (max-width: 575px) { 
 	.carousel {
-		/*display:block;*/
+	--display: block; ???
         -webkit-transform: rotate(90deg);
         -moz-transform: rotate(90deg);
         -o-transform: rotate(90deg);
@@ -53,7 +53,7 @@ p {
         min-width: 555px;
 	}
 }
-/*
+
 @media (min-width: 576px) { 
 	.carousel-item img {
 		width: 100%;
