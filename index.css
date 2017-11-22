@@ -2,22 +2,11 @@ h1 {
 	text-align: center;
 	padding-top: 50px;
 }
-/*
-@media (max-width: 575px) { 
-	h1 {
-		font-size: 35px;
-	}
-}
 
-@media (min-width: 576px) { 
-	h1 {
-		font-size: 60px;
-	}
-}
-*/
 h2 {
 	color: #7a2f8e;
 	text-align: center;
+	padding-top: 15px;
 	padding-bottom: 10px;
 
 }
